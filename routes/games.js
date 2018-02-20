@@ -2,7 +2,7 @@
 const router = require('express').Router()
 const passport = require('../config/auth')
 const { Game } = require('../models')
-const utils = require('../lib/utils')
+
 const processMove = require('../lib/processMove')
 
 const authenticate = passport.authorize('jwt', { session: false })
