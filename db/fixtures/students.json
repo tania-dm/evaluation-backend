@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Buttercup",
+    "photo": "http://www.writeups.org/wp-content/uploads/Buttercup-Powerpuff-Girls-Profile-a.jpg",
+    "batchId": "5a8d67815dbbde6634ae694b",
+    "_id": "5a8d682e5d9cd2686da1667b",
+    "color": "green"
+  },
+
+  {
+      "name": "Bubbles",
+      "photo": "https://vignette.wikia.nocookie.net/blossom/images/6/66/BUBBLES_PPG.png/revision/latest?cb=20120914202027",
+      "batchId": "5a8d67815dbbde6634ae694b",
+      "_id": "5a8d682e5d9cd2686da1667d",
+      "color": "yellow"
+  },
+
+  {
+      "name": "Blossom",
+      "photo": "https://vignette.wikia.nocookie.net/blossom/images/0/08/BLOSSOM_OF_POWERPUFF_GIRLS.png/revision/latest?cb=20120915153425",
+      "batchId": "5a8d67815dbbde6634ae694b",
+      "_id": "5a8d682e5d9cd2686da1667c",
+      "color": "red"
+  },
+
+  {
+      "name": "Grim Reaper",
+      "photo": "https://vignette.wikia.nocookie.net/grimadventures/images/3/3a/Grim_with_scythe.jpg/revision/latest?cb=20140718011636",
+      "batchId": "5a8d67815dbbde6634ae694b",
+      "_id": "5a8d682e5d9cd2686da1667e",
+      "color": "yellow"
+  },
+
+  {
+      "name": "Mandy",
+      "photo": "http://www.cartoonnetwork.ca/tv/grim/images/grim-character-mandy.png",
+      "batchId": "5a8d67815dbbde6634ae694b",
+      "_id": "5a8d682e5d9cd2686da1667f",
+      "color": "red"
+  },
+
+  {
+      "name": "Billy",
+      "photo": "https://vignette.wikia.nocookie.net/deathbattlefanon/images/0/0e/The-grim-adventures-of-billy-and-mandy-4e5414c526f8d.png/revision/latest?cb=20170124230928",
+      "batchId": "5a8d67815dbbde6634ae694b",
+      "_id": "5a8d682e5d9cd2686da16681",
+      "color": "green"
+  },
+
+  {
+      "name": "Blu",
+      "photo": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i91/fostershome_180x180.png",
+      "batchId": "5a8d67815dbbde6634ae694b",
+      "_id": "5a8d682e5d9cd2686da16680",
+      "color": "red"
+  }
+
+]

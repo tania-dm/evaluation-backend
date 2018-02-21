@@ -60,9 +60,11 @@ const authenticate = (email, password) => {
     .send({ email, password })
     .then((res) => {
       console.log('Authenticated!')
-      return createBatches(res.body.token)
+
+      createBatches(res.body.token)
+      createStudents(res.body.token)
+      createEvaluations(res.body.token)
     })
-    //check what needs to be put above createBatches?
     .catch((err) => {
       console.error('Failed to authenticate!', err.message)
     })
