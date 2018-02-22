@@ -5,5 +5,14 @@
     "endDate": "2018-04-21T08:51:35.488Z",
     "_id": "5a8d67815dbbde6634ae694b",
     "students": [ "5a8d682e5d9cd2686da1667e", "5a8d682e5d9cd2686da1667d", "5a8d682e5d9cd2686da1667f", "5a8d682e5d9cd2686da16681", "5a8d682e5d9cd2686da1667b", "5a8d682e5d9cd2686da1667c", "5a8d682e5d9cd2686da16680"]
+  },
+  {
+    "number": 2,
+    "startDate": "2018-03-21T08:51:35.488Z",
+    "endDate": "2018-05-21T08:51:35.488Z",
+    "_id": "5a8e989c68d1703f8f26b98f",
+    "students": ["5a8d682e5d9cd2686da1667c", "5a8d682e5d9cd2686da1667d","5a8d682e5d9cd2686da1667b" ]
   }
+
+
 ]

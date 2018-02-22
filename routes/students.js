@@ -62,5 +62,22 @@ module.exports = io => {
         .catch((error) => next(error))
     })
 
+    .delete('/student/:id', authenticate, (req, res, next) => {
+      const id = req.params.id
+      Student.findByIdAndRemove(id)
+        .then(() => {
+          io.emit('action', {
+            type: 'STUDENT_REMOVED',
+            payload: id
+          })
+          res.status = 200
+          res.json({
+            message: 'Removed',
+            _id: id
+          })
+        })
+        .catch((error) => next(error))
+    })
+
   return router
 }

@@ -1,8 +1,8 @@
 [
   {
     "name": "Buttercup",
-    "photo": "http://www.writeups.org/wp-content/uploads/Buttercup-Powerpuff-Girls-Profile-a.jpg",
-    "batchId": "5a8d67815dbbde6634ae694b",
+    "photo": "https://vignette.wikia.nocookie.net/powerpuff/images/1/14/Buttercup-pic.png/revision/latest?cb=20130517082218",
+    "batchId": "5a8e989c68d1703f8f26b98f",
     "_id": "5a8d682e5d9cd2686da1667b",
     "color": "green"
   },
@@ -10,22 +10,22 @@
   {
       "name": "Bubbles",
       "photo": "https://vignette.wikia.nocookie.net/blossom/images/6/66/BUBBLES_PPG.png/revision/latest?cb=20120914202027",
-      "batchId": "5a8d67815dbbde6634ae694b",
+      "batchId": "5a8e989c68d1703f8f26b98f",
       "_id": "5a8d682e5d9cd2686da1667d",
       "color": "yellow"
   },
 
   {
       "name": "Blossom",
-      "photo": "https://vignette.wikia.nocookie.net/blossom/images/0/08/BLOSSOM_OF_POWERPUFF_GIRLS.png/revision/latest?cb=20120915153425",
-      "batchId": "5a8d67815dbbde6634ae694b",
+      "photo": "https://vignette.wikia.nocookie.net/powerpuff-girls-warriors/images/b/b1/Blossom-3.png/revision/latest?cb=20151214215354",
+      "batchId": "5a8e989c68d1703f8f26b98f",
       "_id": "5a8d682e5d9cd2686da1667c",
       "color": "red"
   },
 
   {
       "name": "Grim Reaper",
-      "photo": "https://vignette.wikia.nocookie.net/grimadventures/images/3/3a/Grim_with_scythe.jpg/revision/latest?cb=20140718011636",
+      "photo": "http://moziru.com/images/grim-reaper-clipart-cartoon-network-5.gif",
       "batchId": "5a8d67815dbbde6634ae694b",
       "_id": "5a8d682e5d9cd2686da1667e",
       "color": "yellow"
