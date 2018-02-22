@@ -29,7 +29,7 @@ module.exports = io => {
     })
     .post('/batches', authenticate, (req, res, next) => {
       const newBatch = req.body
-
+    
       Batch.create(newBatch)
         .then((batch) => {
           io.emit('action', {

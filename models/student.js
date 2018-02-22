@@ -5,7 +5,7 @@ const { Schema } = mongoose
 const studentSchema = new Schema({
   name: { type: String, required: true },
   photo: { type: String, required: true },
-  color: { type: String, default: 'red', required: true},
+  color: { type: String, default: 'red'},
   batchId: { type: Schema.Types.ObjectId, ref: 'batches', required: true }
 })
 
